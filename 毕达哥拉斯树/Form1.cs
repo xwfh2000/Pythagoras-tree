@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-//test “源代码管理3.0”
+//test “源代码管理4.0”
 namespace 毕达哥拉斯树
 {
     public partial class Form1 : Form
